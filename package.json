@@ -1,0 +1,11 @@
+{
+  "name": "flutter_gherkin_issue_showcase",
+  "version": "1.0.0",
+  "main": "generate-cucumber-html-report.js",
+  "scripts": {
+    "generate-report": ""
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^5.5.0"
+  }
+}
